@@ -2,4 +2,15 @@ body{
 background-color: mediumpurple;
 color: indigo;
 font-family: "Gravitas One", serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button {
+background-color: darkorchid;
+color: indigo;
+font-family: "Gravitas One", serif;
 }
