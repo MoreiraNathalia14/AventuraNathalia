@@ -14,3 +14,20 @@ background-color: darkorchid;
 color: indigo;
 font-family: "Gravitas One", serif;
 }
+
+.passo{
+display:none;
+}
+
+.passo.ativo{
+    display:block;
+}
+
+main {
+   text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 80%;
+}
